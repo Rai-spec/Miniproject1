@@ -10,6 +10,8 @@ Commit Command: This operation helps you to save the changes in your file. When 
 
 Pull command: Pull command is the most important command in GitHub. It tell the changes done in the file and request other contributors to view it as well as merge it with the master branch. Once the commit is done, anyone can pull the file and can start a discussion over it.
 
+Push refers to the transfer, of the changes you made, from your git repo to a remote git repo. GitHub is an example of a remote git repo.
+
 Merge command: Here comes the last command which merge the changes into the main master branch.
 
 Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
@@ -20,4 +22,5 @@ Git fetch is a primary command used to download contents from a remote repositor
 
 A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub
 
+Checkout refers to an action in GIT that allow you to 'checkout' a commit to see what the files looked like at that particular point in time; checking out a branch name points HEAD to it, and updates the file system accordingly.�The command for checkout is git checkout
 https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts https://www.edureka.co/blog/how-to-use-github/
