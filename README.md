@@ -1,6 +1,6 @@
 # Miniproject1
 IS117-003
 
-Members:
+Members
 Shahmeer Rai
 Ethan sinson
