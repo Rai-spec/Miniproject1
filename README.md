@@ -6,8 +6,10 @@ Shahmeer Rai,
 Ethan Sinson
 
 
-Git definitions by Shahmeer Rai
+Git definitions & vi tutorial by Shahmeer Rai
+https://github.com/Rai-spec/Miniproject1/blob/master/Vi%20tutorial
 https://github.com/Rai-spec/Miniproject1/blob/master/Gitdefinitions
+
 
 
 Linux commands by Ethan Sinson
