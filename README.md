@@ -7,7 +7,9 @@ Ethan Sinson
 
 
 Git definitions & vi tutorial by Shahmeer Rai
+
 https://github.com/Rai-spec/Miniproject1/blob/master/Vi%20tutorial
+
 https://github.com/Rai-spec/Miniproject1/blob/master/Gitdefinitions
 
 
